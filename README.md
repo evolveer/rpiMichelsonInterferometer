@@ -50,7 +50,7 @@ Clone the repository and install dependencies:
 bash
 Copy
 Edit
-git clone https://[github.com/yourusername/michelson-interferometer.](https://github.com/evolveer/rpiMichelsonInterferometer).git
+git clone https://ttps://github.com/evolveer/rpiMichelsonInterferometer.git
 
 pip install opencv-python numpy matplotlib ipywidgets picamera2
 jupyter nbextension enable --py widgetsnbextension
